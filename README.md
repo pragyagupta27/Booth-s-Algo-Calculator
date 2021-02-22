@@ -1,1 +1,0 @@
-# Booth-s-Algo-Calculator
